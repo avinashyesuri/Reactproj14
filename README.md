@@ -1,7 +1,6 @@
 # Book Review Platform
 
 A simple, beginner-friendly React project that demonstrates building a book review platform. This project is part of the "React Projects for Beginners" collection and is intended as a learning exercise to practice building CRUD-style UI, component composition, and basic state management in React.
-
 ---
 
 ## Project Overview
