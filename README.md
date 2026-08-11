@@ -5,9 +5,7 @@ A simple, beginner-friendly React project that demonstrates building a book revi
 The Book Review Platform is a small React application that allows users to browse books, add reviews, and give ratings. The aim of the project is to provide a practical sandbox for applying React concepts such as components, props, state, and simple routing or local data persistence.
 
 This project is meant for educational purposes — to help beginners gain hands-on experience building a front-end project using React.
-
 ---
-
 ## Features
 
 - Browse a list of books
@@ -17,9 +15,7 @@ This project is meant for educational purposes — to help beginners gain hands-
 - Clean, component-based structure suitable for extension
 
 (Features can be extended with authentication, backend storage, search, filtering, and pagination.)
-
 ---
-
 ## Tech Stack
 
 - React
